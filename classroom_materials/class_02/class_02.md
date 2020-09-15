@@ -18,7 +18,6 @@
    - Look into regular expressions. For example [this 5 minute video](https://www.youtube.com/watch?v=UQQsYXa1EHs) or [this 6 minute read](https://medium.com/better-programming/introduction-to-regex-8c18abdd4f70)
    - Set up a [linter](https://code.visualstudio.com/docs/python/linting), i.e. code spell-checker for VS code. I use flake8 but you can use any.
 
----
 
 ## Plan for Class
 
